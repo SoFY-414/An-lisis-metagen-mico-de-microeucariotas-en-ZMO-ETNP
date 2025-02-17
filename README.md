@@ -13,6 +13,7 @@ En este tipo de análisis se puede adquirir información que tiene que ver con l
 
 
 **Autora**: Sofia Fonseca Yepez [@SoFY-414](https://github.com/SoFY-414)
+**Co-autores**: Francisco Javier García de León, Mirna Vázquez Rosas Landa, Verónica Mendoza Portillo, Tania Valdivia Carrillo
 
 
 #### **Datos de las secuencias con las que voy a trabajar**
